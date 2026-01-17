@@ -27,7 +27,7 @@ The internship focused on strengthening **programming fundamentals, logic buildi
 ### 1️⃣ Bank Management System
 - Implemented a basic banking system to manage customer accounts  
 - Included features such as account creation, deposits, withdrawals, and balance inquiry  
-- Focused on control structures, file handling (if applicable), and logical flow  
+- Focused on control structures, file handling, and logical flow  
 
 ---
 
